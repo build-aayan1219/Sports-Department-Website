@@ -45,7 +45,7 @@ This project showcases sports initiatives, athlete highlights, news updates, and
 
 ```
 project-folder/
-│── Sports Department.html
+│──index.html
 ```
 
 ---
